@@ -1,0 +1,4 @@
+package này chứa các lớp hằng số quy định chung để cả nhóm làm việc cho tốt,
+mình sẽ setup lớp hằng số này để mọi người có thể sử dụng đồng bộ các tham số.
+Lưu ý, các lớp java không truyền tham số trực tiếp nhé. Nếu có tham số thì cần phải quy định ở đây
+Nếu có update hãy chú thích mô tả

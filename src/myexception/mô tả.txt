@@ -1,0 +1,2 @@
+package này sẽ chứa các lớp xử lý các ngoại lệ phát sinh trong quá trình làm việc
+Nếu có ngoại lệ nào cần định nghĩa thì put ở package này kèm theo mô tả

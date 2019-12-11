@@ -1,0 +1,2 @@
+Đây là package tầng mạng, mình đang test thử giao thứ truyền TCP/IP để biến đổi app của mình thành app online
+các lớp java demo bằng kết nối mạng lan. Còn đang trong thử nghiệm.

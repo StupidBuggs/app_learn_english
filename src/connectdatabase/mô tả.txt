@@ -1,0 +1,2 @@
+Đây là package chứa các lớp kết nối database,
+Các lớp đó sẽ cần phải đáp ứng được select tất cả, select có điều kiện, update, insert, delete dữ liệu.

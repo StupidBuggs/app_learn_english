@@ -1,0 +1,2 @@
+package này sẽ chứa các lớp giao diện kế thừa từ jpanel,
+các giao diện sẽ được kết nối với nhau by me, hãy push kèm mô tả.

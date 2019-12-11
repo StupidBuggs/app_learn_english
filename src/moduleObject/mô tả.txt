@@ -1,0 +1,5 @@
+package này chứa các lớp level, lesson, part
+-- level,lesson, part là lớp gồm các thuộc tính như trong biểu đồ lớp đã thiết kế
+-- level là lớp biểu diễn của các đối tượng level sẽ gồm các đối tượng lesson
+-- lesson là các lớp biểu diễn của các đối tượng lesson sẽ cấu thành bởi các đối tượng part
+-- part là các lớp biểu diễn của các đối tượng part là các phần nghe nhỏ của một bài nghe.
